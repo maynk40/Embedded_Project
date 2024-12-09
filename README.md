@@ -57,3 +57,7 @@ Refer to the **Appendix** section in the [Project Report](PROJECT_REPORT_doc.pdf
 1. Clone this repository:
    ```bash
    git clone <repository_url>
+2. Open the provided code in your STM32 IDE.
+3. Connect the components as per the circuit diagram.
+4. Compile and upload the code to the STM32 microcontroller.
+5. Power on the system and observe the functionality.
