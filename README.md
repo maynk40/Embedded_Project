@@ -9,7 +9,6 @@ This project demonstrates the implementation of a radar system using an STM32 mi
 - Real-time feedback:
   - Red LED blinking upon detection.
   - Buzzer sound for auditory indication.
-- Display of detected objects count on a 7-segment display.
 
 ## Components Used
 - STM32 Microcontroller
